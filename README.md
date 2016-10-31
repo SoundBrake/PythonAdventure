@@ -1,3 +1,3 @@
 PythonAdventure
 
-lab work for python.
+lab work for python coding.
